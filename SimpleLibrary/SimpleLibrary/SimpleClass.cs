@@ -7,6 +7,6 @@ namespace SimpleLibrary
     /// </summary>
     public class SimpleClass
     {
-        public const string V = "1.0.0";
+        public const string V = "2.0.0";
     }
 }
