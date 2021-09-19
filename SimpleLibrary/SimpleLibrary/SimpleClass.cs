@@ -7,6 +7,14 @@ namespace SimpleLibrary
     /// </summary>
     public class SimpleClass
     {
-        public const string V = "2.0.0";
+        public static string V
+        {
+            get
+            {
+                return "2.0.0";
+            }
+
+        }
+
     }
 }
