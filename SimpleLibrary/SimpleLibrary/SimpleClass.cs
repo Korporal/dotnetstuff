@@ -11,7 +11,7 @@ namespace SimpleLibrary
         {
             get
             {
-                return "10.0.0";
+                return "11.0.0";
             }
 
         }
